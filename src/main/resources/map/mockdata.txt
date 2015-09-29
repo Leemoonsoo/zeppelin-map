@@ -1,0 +1,4 @@
+%table
+latitude	longitude	radius
+6.6	5.5	3.4
+103.1	78.4	3.22
